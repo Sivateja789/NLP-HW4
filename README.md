@@ -1,8 +1,8 @@
 # NLP-HW4      
 
 Student Info
-Name: SIVA TEJA KATTA
-Student ID: 700774274
+Name: SIVA TEJA KATTA      
+Student ID: 700774274        
 
 ---
 
